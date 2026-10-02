@@ -2,7 +2,7 @@
 
 A PDF reader for Android tablets that lets you take a document apart while you read it. Highlight with a stylus, drag passages onto an infinite canvas, write notes by hand that stay linked to the text, and pinch the document to fold away everything you don't need.
 
-**[▶ Watch the 80-second demo](demo/LiquidReader_v2.mp4)**
+https://github.com/user-attachments/assets/f9678661-c8cb-4994-b3df-a8cfe06990ba
 
 ## Features
 
