@@ -39,6 +39,10 @@ A PDF reader for Android tablets that lets you take a document apart while you r
 - Text selection and search use the `PdfRenderer` text APIs from **Android 15 / SDK extension S 13**. On older versions documents still render, and drawing, region clips and the canvas still work.
 - A stylus is optional. With one, fingers pan and zoom while the pen writes and selects.
 
+## Download
+
+Every push to `main` builds a debug APK with GitHub Actions. Download it from the **Artifacts** section of the latest [Build APK run](https://github.com/Koosh0610/liquid-reader/actions/workflows/build-apk.yml). Pushing a version tag (`git tag v0.1 && git push --tags`) attaches the APK to a [GitHub Release](https://github.com/Koosh0610/liquid-reader/releases).
+
 ## Build and run
 
 You need JDK 17–21 and the Android SDK (platform 35). Gradle 8.9 can't run on JDK 22 or newer.
